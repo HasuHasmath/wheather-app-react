@@ -49,3 +49,35 @@ justify-content: center;
 color: white;
 font-size: 120px;
 }
+
+.weather-location{
+  display:flex;
+  justify-content: center;
+  color: white;
+}
+.data-container{
+  margin-top: 50px;
+  color: white;
+  display: flex;
+  justify-content: center;
+
+}
+.element{
+  margin: auto;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+
+}
+.data {
+  font-size: 34px;
+  font-weight: 400;
+}
+.text {
+  font-size: 20px;
+  font-weight: 400;
+}
+.icon {
+  margin-top: 10px;
+  
+}
